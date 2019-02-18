@@ -48,7 +48,7 @@ We have to thank these great people on helping to write this book. Everyone here
   - [devRant](https://devrant.com/users/lucaspar)
   - [GitHub](https://github.com/lucaspar)
   
-  - Kamila Szewczyk
+- Kamila Szewczyk (Παλαιολόγος)
   
   - [devRant](https://devrant.com/users/kspalaiologos)
   - [GitHub](https://github.com/kspalaiologos)
